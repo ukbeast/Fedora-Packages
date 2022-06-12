@@ -1,6 +1,6 @@
 Name:           irqbalance
-Version:        1.8.0
-Release:        2%{?dist}
+Version:        1.9.0
+Release:        1%{?dist}
 Epoch:          2 
 Summary:        IRQ balancing daemon
 
